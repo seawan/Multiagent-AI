@@ -1,2 +1,2 @@
 # Multiagent-AI
-Multiagent AI course at UCL
+The Multiagent AI course at UCL
